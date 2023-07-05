@@ -1,0 +1,83 @@
+table,th,td{
+BORDER:3px solid white;
+border-collapse:collapse;
+background-color:black;
+text-align:center;
+margin:auto;
+color:blue;
+}
+
+
+.qw{
+	font-size:0.01cm;
+}
+.qe{
+	font-size:0.1mm;
+}
+.qa{
+	font-size:1in;
+}
+.qt{
+	font-size:24px;
+}
+.qy{
+	font-size:13pt;
+}
+.qu{
+	font-size:1pc;
+}
+
+.ad{
+	 font-size:20px;
+}
+span{
+	font-size:1em;
+}
+.af{
+font-size:20px;
+}
+span{
+	font-size:2ex;
+}
+.ag{
+	 font-size:30px;
+}
+span{
+	font-size:3ch;
+}
+.ah{
+	 font-size:80px;
+}
+span{
+	font-size:3rem;
+}
+.aj{
+	 font-size:24px;
+}
+span{
+	font-size:2vw;
+}
+.ak{
+	 font-size:76px;
+}
+span{
+	font-size:4vh;
+}
+.al{
+	 font-size:90px;
+}
+span{
+	font-size:1vmin;
+}
+.az{
+	 font-size:35px;
+}
+span{
+	font-size:3vmax;
+}
+.ax{
+	 font-size:60px;
+}
+span{
+	font-size:50%;
+}
